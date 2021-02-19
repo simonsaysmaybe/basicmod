@@ -1,0 +1,9 @@
+{
+  "item.mccourse.copper_ingot": "Copper Ingot",
+  "block.mccourse.copper_block": "Copper Block",
+  "block.mccourse.copper_ore": "Copper Ore",
+  "item.mccourse.copper_wire": "Copper Wire",
+
+  "itemGroup.courseTab": "Course Tab"
+
+}
